@@ -1,0 +1,42 @@
+/* Style général pour le corps du site */
+body {
+    font-family: 'Permanent Marker', cursive;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    font-size: 3rem;
+}
+
+/* Style pour l'en-tête */
+header {
+    font-family: 'Permanent Marker', cursive;
+    background-color: rgb(197, 25, 94); /* Rouge audacieux */
+    padding: 10px;
+}
+
+/* Style pour le titre */
+#title {
+    font-size: 4rem; /* Augmente la taille du titre */
+    color: #000000;
+}
+
+/* Style pour le bouton de génération */
+#generateButton {
+    background-color:  rgb(0, 0, 0); /* Orange vif */
+    color: rgb(197, 25, 94); /* Texte noir */
+    font-size: 1.2rem;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+/* Style pour la réponse */
+#phrase {
+    
+    font-size: 4rem;
+    margin-top: 20px;
+    color:  rgb(197, 25, 94);; /* Vert vif */
+    line-height: 1;
+}
